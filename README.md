@@ -15,7 +15,7 @@ Installation
 ------------
 
 ```bash
-$ composer require beelab/bowerphp
+$ composer require injitools/bowerphp
 ```
 
 Configuration
